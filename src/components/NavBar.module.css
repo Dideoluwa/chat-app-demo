@@ -1,0 +1,24 @@
+.nav{
+    /* background-color: #181717; */
+    height: 10vh;
+    min-height: 50px;
+    color: white;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 99;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.button{
+    position: relative;
+    background-color: rgb(156, 119, 143);
+    border: none;
+    border-radius: 10px;
+    left: 40%;
+    cursor: pointer;
+    padding: 10px 60px;
+}

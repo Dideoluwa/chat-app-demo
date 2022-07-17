@@ -1,0 +1,17 @@
+.app{
+    margin: 5rem auto;
+    width: 90%;
+    height: 70vh;
+    max-width: 50rem;
+    overflow: scroll;
+    text-align: center;
+    background-image: url('https://images.unsplash.com/photo-1523821741446-edb2b68bb7a0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2rem;
+    border-radius: 12px;
+}
+.app1{
+    overflow: scroll;
+}
