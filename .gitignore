@@ -1,1 +1,9 @@
 node_modules
+
+# env files (restored by security fix)
+temp_auto_push.bat
+.env
+.env.*
+!.env.example
+.gitignore
+branch_structure.json
